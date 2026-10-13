@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /batchaeva-tochka-rosta/blog/preview/
+
+Sitemap: https://murzzsite.github.io/batchaeva-tochka-rosta/sitemap.xml

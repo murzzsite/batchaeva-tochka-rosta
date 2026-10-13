@@ -1,0 +1,38 @@
+{
+  "siteName": "Фатима Батчаева",
+  "siteUrl": "https://murzzsite.github.io/batchaeva-tochka-rosta",
+  "lang": "ru",
+  "repo": "murzzsite/batchaeva-tochka-rosta",
+  "ref": "M3CABXX656",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи коуча и психолога Фатимы Батчаевой о доходе, мышлении, реализации и росте",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Фатима Батчаева",
+    "jobTitle": "",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Расскажите о своей ситуации: отвечу лично и подскажу, с чего начать.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер, не заменяет консультацию специалиста и не содержит обещаний конкретного результата или суммы дохода. Ситуация каждого человека индивидуальна.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "01a51d722eb37899dd99ccf99df62c33",
+  "previewSecret": "48cc51db4396ff69",
+  "theme": {
+    "accent": "var(--accent)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)",
+    "accent-soft": "color-mix(in srgb, var(--accent) 10%, #ffffff)"
+  }
+}
